@@ -1,4 +1,4 @@
-package com.example.core.data.remote.dto
+package com.example.core.data.source.remote.dto
 
 data class NewsResponse(
 	val totalResults: Int? = null,

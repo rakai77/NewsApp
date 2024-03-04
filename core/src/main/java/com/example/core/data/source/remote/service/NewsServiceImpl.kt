@@ -1,7 +1,7 @@
-package com.example.core.data.remote.service
+package com.example.core.data.source.remote.service
 
-import com.example.core.data.remote.HttpRoute
-import com.example.core.data.remote.dto.NewsResponse
+import com.example.core.data.source.remote.HttpRoute
+import com.example.core.data.source.remote.dto.NewsResponse
 import io.ktor.client.HttpClient
 import io.ktor.client.call.body
 import io.ktor.client.request.get

@@ -1,8 +1,8 @@
-package com.example.core.data.remote.mapper
+package com.example.core.data.source.remote.mapper
 
-import com.example.core.data.remote.dto.ArticlesItemResult
-import com.example.core.data.remote.dto.NewsResponse
-import com.example.core.data.remote.dto.SourceData
+import com.example.core.data.source.remote.dto.ArticlesItemResult
+import com.example.core.data.source.remote.dto.NewsResponse
+import com.example.core.data.source.remote.dto.SourceData
 import com.example.core.domain.model.ArticlesItem
 import com.example.core.domain.model.News
 import com.example.core.domain.model.Source

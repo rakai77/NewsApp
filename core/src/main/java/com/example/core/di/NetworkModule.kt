@@ -1,8 +1,8 @@
 package com.example.core.di
 
-import com.example.core.data.remote.HttpClientFactory
-import com.example.core.data.remote.service.NewsService
-import com.example.core.data.remote.service.NewsServiceImpl
+import com.example.core.data.source.remote.HttpClientFactory
+import com.example.core.data.source.remote.service.NewsService
+import com.example.core.data.source.remote.service.NewsServiceImpl
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn
