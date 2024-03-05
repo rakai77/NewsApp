@@ -2,4 +2,10 @@
 <resources>
 
     <style name="Theme.NewsApp" parent="android:Theme.Material.Light.NoActionBar" />
+    <style name="Theme.NewsAppSplash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/white</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_news_logo</item>
+        <item name="postSplashScreenTheme">@style/Theme.NewsApp</item>
+        <item name="windowSplashScreenAnimationDuration">3000</item>
+    </style>
 </resources>

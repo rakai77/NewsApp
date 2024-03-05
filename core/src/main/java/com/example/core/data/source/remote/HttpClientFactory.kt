@@ -49,19 +49,6 @@ class HttpClientFactory {
             headers {
                 append(HttpHeaders.ContentType, "application/json")
             }
-            parameters {
-                append("apiKey", "2fd59c7e5d914e9992a84fa976c1e3c2")
-            }
         }
-
-
     }
-
-
-
-
-
-
-    //2fd59c7e5d914e9992a84fa976c1e3c2
-    //https://newsapi.org/
 }

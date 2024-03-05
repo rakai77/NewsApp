@@ -1,5 +1,7 @@
 package com.example.core.domain.model
 
+import java.io.Serializable
+
 data class News(
     val totalResults: Int? = null,
     val articles: List<ArticlesItem>? = null,
@@ -15,7 +17,7 @@ data class ArticlesItem(
     val title: String? = null,
     val url: String? = null,
     val content: String? = null
-)
+) : Serializable
 
 data class Source(
     val name: String? = null,
