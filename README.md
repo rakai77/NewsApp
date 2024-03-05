@@ -1,7 +1,8 @@
 ## News App using Jetpack Compose
 
 ## Screenshoot
-![Screenshot_1709629825](https://github.com/rakai77/NewsApp/assets/58464856/65d651e2-8df3-4b56-abbc-f28811079190)
+![Screenshot 2024-03-05 at 16 25 49](https://github.com/rakai77/NewsApp/assets/58464856/0e1bd4f8-6e00-47ba-861b-1bdc62e5e10f)
+
 
 ## Tech Stack : 
  1. Network : Ktor
